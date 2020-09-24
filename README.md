@@ -9,5 +9,9 @@
 ![a](../master/baduser.png)
 
 
+## Packet Tracer Version
+
+Version used here is 7.3.0.0838
+
 
 Copyright (c) 2020-present, fidelis24 (April Joie A. Enaño)
